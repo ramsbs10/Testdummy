@@ -7,6 +7,7 @@ public class Dummy {
 	@Test
 	public void Dummy() {
 		System.out.println("!!!!!");
+		System.out.println("========");
 	}
 
 }
